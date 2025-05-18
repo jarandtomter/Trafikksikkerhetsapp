@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1Ijoic2ltb25ncmF2IiwiYSI6ImNtOHNpeHdrbDAwczMydHI1NGRldHAzN3AifQ.639d8OdOo6Icodf64r1yIQ</string>
+
+    <dimen name="mapbox_gesturePinchToZoomThreshold">3dp</dimen>
+    <dimen name="mapbox_gestureScaleThreshold">0.05</dimen>
+    <dimen name="scaleSpanSinceStartThreshold">20dp</dimen>
+</resources>
